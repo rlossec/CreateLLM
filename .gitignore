@@ -1,0 +1,7 @@
+# Config PyCharm
+.idea/
+
+
+/src/tests/
+/src/data/
+
